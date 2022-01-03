@@ -1,16 +1,43 @@
-### Hi there 👋
+# 自己紹介
 
-<!--
-**ohide0523/ohide0523** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table>
+  <tr>
+    <th>
+      名前
+      </th>
+     <th>
+      生年月日
+      </th>
+    <th>現住地</th>
+  </tr>
+  
+  <tr>
+    <td>猪口秀之</td>
+    <td>1995年5月23日(26歳)</td>
+    <td>東京都</td>
+  
+  </table>
+  
+  # スキルセット
+  
+  
+  <table>
+  <tr>
+    <th>
+    フロント
+      </th>
+     <th>
+      バック
+      </th>
+    <th>その他</th>
+  </tr>
+  
+  <tr>
+    <td>HTML/CSS/JavaScript/React/Next.js</td>
+    <td>Firebase( Auth / firestore / Storage / Hosting/Functions )/Node.js</td>
+    <td>Mui(material-ui)</td>
+  </tr>
+  
+  </table>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
